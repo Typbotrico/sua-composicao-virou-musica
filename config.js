@@ -1,0 +1,1 @@
+window.QUIZ_CONFIG={whatsapp:"24993285944",pixelId:"3261795564020428",producer:"Rico Dias",experience:"20 anos de experiência musical",prices:{A:97,B:250},demos:{A:[],B:[]}};
