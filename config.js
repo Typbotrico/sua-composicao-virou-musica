@@ -1,1 +1,1 @@
-window.QUIZ_CONFIG={whatsapp:"24993285944",pixelId:"3261795564020428",producer:"Rico Dias",experience:"20 anos de experiência musical",prices:{A:97,B:250},demos:{A:[],B:[]}};
+window.QUIZ_CONFIG={whatsapp:"24993285944",pixelId:"3261795564020428",producer:"Rico Dias",experience:"20 anos de experiência musical",prices:{A:97,B:250},demos:{A:[{title:"Abri o Google Fotos, no meu celular — voz de inteligência artificial",url:"/assets/demo-voz-ia.mp3"}],B:[{title:"Vem de Vez — voz real, mixagem e masterização por Rico Dias",url:"/assets/demo-voz-real.mp3"}]}};
